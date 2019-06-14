@@ -4,6 +4,8 @@ function scuberGreetingForFeet(feet){
     return 'This one is on me!'
   } elsif (feet>2000){
     return 'I will gladly take your thirty bucks.'
+  } elsif (feet>2500){
+    return 'I will gladly take your thirty bucks.'
   }
 }
 

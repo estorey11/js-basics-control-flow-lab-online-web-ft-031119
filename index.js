@@ -1,7 +1,7 @@
 function scuberGreetingForFeet(feet){
   // Write your code here!
   if (feet < 400){
-    'This one is on me!'
+    return 'This one is on me!'
   }
 }
 
